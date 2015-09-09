@@ -19,5 +19,5 @@
         "phalcana/core": "dev-master"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": true
 }
