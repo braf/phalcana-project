@@ -18,6 +18,9 @@
     "require": {
         "phalcana/core": "dev-master"
     },
+    "require-dev": {
+        "phalcana/unittest": "dev-master"
+    },
     "minimum-stability": "dev",
     "prefer-stable": true
 }
