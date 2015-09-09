@@ -1,0 +1,9 @@
+.htaccess
+vendor/
+node_modules/
+app/config/setup.php
+public/uploads/
+composer.lock
+npm-debug.log
+*.css.patch
+*.map
