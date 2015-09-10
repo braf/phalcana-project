@@ -9,6 +9,7 @@ define('SYSPATH', realpath(DOCROOT.'system').DIRECTORY_SEPARATOR);
 // Include the core framework files
 require_once SYSPATH.'classes/Phalcana.php';
 require_once SYSPATH.'classes/Core/Filesystem.php';
+require_once DOCROOT.'vendor/autoload.php';
 
 // Initialize the framework
 $app = new \Phalcana\Phalcana();
