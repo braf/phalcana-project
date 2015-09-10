@@ -16,11 +16,9 @@
         "issues": "https://github.com/braf/phalcana-project/issues"
     },
     "require": {
-        "phalcana/core": "dev-master"
+        "phalcana/core": "^0.8.1"
     },
     "require-dev": {
-        "phalcana/unittest": "dev-master"
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+        "phalcana/unittest": "^0.8.0"
+    }
 }
