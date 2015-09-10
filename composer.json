@@ -16,9 +16,10 @@
         "issues": "https://github.com/braf/phalcana-project/issues"
     },
     "require": {
-        "phalcana/core": "^0.8.1"
+        "php": ">=5.4.0",
+        "phalcana/core": "^0.8"
     },
     "require-dev": {
-        "phalcana/unittest": "^0.8.0"
+        "phalcana/unittest": "^0.8"
     }
 }
