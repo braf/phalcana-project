@@ -1,6 +1,8 @@
 .htaccess
 vendor/
 node_modules/
+system/
+modules/unittest/
 app/config/setup.php
 public/uploads/
 composer.lock
