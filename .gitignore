@@ -3,6 +3,7 @@ vendor/
 node_modules/
 system/
 modules/unittest/
+modules/userguide/
 app/config/setup.php
 public/uploads/
 composer.lock

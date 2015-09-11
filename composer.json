@@ -20,6 +20,7 @@
         "phalcana/core": "^0.8"
     },
     "require-dev": {
-        "phalcana/unittest": "^0.8"
+        "phalcana/unittest": "^0.8",
+        "phalcana/userguide": "^0.8"
     }
 }
