@@ -22,6 +22,7 @@
     },
     "require-dev": {
         "phalcana/unittest": "^0.8",
-        "phalcana/userguide": "^0.8"
+        "phalcana/userguide": "^0.8",
+        "squizlabs/php_codesniffer": "2.*"
     }
 }
