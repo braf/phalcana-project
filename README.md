@@ -1,3 +1,15 @@
+[![Latest Stable Version](https://poser.pugx.org/phalcana/project/v/stable)](https://packagist.org/packages/phalcana/project)
+[![Build Status](https://travis-ci.org/braf/phalcana-project.svg?branch=master)](https://travis-ci.org/braf/phalcana-project)
+[![Total Downloads](https://poser.pugx.org/phalcana/project/downloads)](https://packagist.org/packages/phalcana/project)
+[![License](https://poser.pugx.org/phalcana/project/license)](https://packagist.org/packages/phalcana/project)
+
+
+# Phalcana Project
+
+This is a starting point for your Phalcana base project and is meant as a template for you to add your code. 
+This repository is not meant to be kept up to date with your project as the main components of the framework 
+are loaded in via composer.
+
 ## Requirements
 
  - PHP 5.4+
